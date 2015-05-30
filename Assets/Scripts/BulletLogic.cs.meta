@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fb9adf5430b378d48be4f76464a98e81
+timeCreated: 1433005395
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - gunShot: {instanceID: 0}
+  - bloodParticle: {fileID: 19810106, guid: 468826d7ffd0b7143987c6c2b31096a1, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
